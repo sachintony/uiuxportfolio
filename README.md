@@ -6,7 +6,7 @@ Here, you'll find a collection of my selected UI/UX projects showcasing my skill
 
 Figma Link: https://www.figma.com/files/team/1304162877075852331/project/305657114/UI-UX-Lab?fuid=1215552134513860646</h1>
     
-<h2>Skills<h2>
+<h2>Skills</h2>
 <li>Wireframing & Prototyping</li>
 <li>User Research & Personas</li>
 <li>Journey Mapping & Storyboarding</li>
